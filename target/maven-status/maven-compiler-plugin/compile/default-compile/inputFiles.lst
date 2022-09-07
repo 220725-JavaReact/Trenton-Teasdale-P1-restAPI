@@ -1,0 +1,6 @@
+/home/trenton/main/Revature/rest/src/main/java/com/revature/models/Product.java
+/home/trenton/main/Revature/rest/src/main/java/com/revature/dao/ProductDAO.java
+/home/trenton/main/Revature/rest/src/main/java/com/revature/controllers/JojaController.java
+/home/trenton/main/Revature/rest/src/main/java/com/revature/services/ProductService.java
+/home/trenton/main/Revature/rest/src/main/java/com/revature/dao/DAO.java
+/home/trenton/main/Revature/rest/src/main/java/com/revature/utils/ConnectionUtil.java
